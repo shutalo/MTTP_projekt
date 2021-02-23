@@ -169,4 +169,4 @@ Za generiranje izvještaja korištena je naredba:
 mvn test (cntrl + enter)
 ```
 
-Aplikacija koja je testirana u projektu nalazi se u repozitoriju kao i ivzjeđtaj o uspješnosti testova. Također se nalazi i aplikacija u zapakirana u zip file.
+Aplikacija koja je testirana u projektu nalazi se u repozitoriju kao i izvještaj o uspješnosti testova. Također se nalazi i aplikacija zapakirana u zip file.
